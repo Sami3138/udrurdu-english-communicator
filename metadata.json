@@ -1,0 +1,7 @@
+{
+  "name": "Urdu-English Business Communicator",
+  "description": "A high-performance multilingual translation app for client communication, featuring voice STT/TTS and professional AI translation between Urdu and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
